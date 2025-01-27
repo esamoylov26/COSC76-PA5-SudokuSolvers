@@ -10,6 +10,8 @@
 # Errors: DPLL still doesn't search deep enough (or fast enough)
                 DPLL can't solve rows.cnf  -- has same problem 
 
+# (Can solve all_cells.cnf and one_cell.cnf) 
+
 IMPORTANT FILES: 
 --------------------------
 solve_sudoku.py = edit file/run in terminal to run DPLL, WalkSAT, and GSAT 
