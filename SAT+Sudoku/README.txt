@@ -1,8 +1,8 @@
-This is the original submission for COSC 76 Fall 2024
-It contains the SAT file and DPLL file to solve Sudoku. 
-It also contains various Sudoku puzzles (provided by COSC 76) and some scaffolding to 
-generate Sudoku puzzles and read them (provided by COSC 76).
+SAT+Sudoku is the original submission for COSC 76 Fall 2024. It contains the SAT file and DPLL file to solve Sudoku. 
+DPLL contains my attempts to add propogation to DPLL to speed it up.
 
+Both folders also contains various Sudoku puzzles (provided by COSC 76) and some scaffolding to 
+generate Sudoku puzzles and read them (provided by COSC 76).
 
 
 IMPORTANT FILES: 
