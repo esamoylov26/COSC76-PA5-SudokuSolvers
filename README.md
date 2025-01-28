@@ -1,4 +1,4 @@
-PA5 for CS76 Fall 2024 Dartmouth College
+PA5 for COSC76 Fall 2024 Dartmouth College
 -------------------------------------
  Sudoku Solver formulated following Ivor Spence: https://www.eeecs.qub.ac.uk/~I.Spence/SuDoku/SuDoku.html
  
